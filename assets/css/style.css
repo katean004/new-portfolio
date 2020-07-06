@@ -57,7 +57,7 @@ img{
 
 .section-heading h1{
     font-size: 3.5rem;
-    color: rgba(255, 255, 255, 0.3);
+    color: rgba(255, 255, 255, 0.5);
     text-transform: uppercase;
     font-weight: 300;
     position: relative;
@@ -328,7 +328,7 @@ li{
     font-size: 1.5rem;
     text-transform: uppercase;
     font-weight: 300;
-    opacity: 0.3;
+    opacity: 0.5;
 }
 
 .portfolio-description .cta{
